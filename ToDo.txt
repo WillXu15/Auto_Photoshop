@@ -1,0 +1,4 @@
+Create a Haar Cascade for facial detection
+	http://note.sonots.com/SciSoftware/haartraining.html
+	5000 photos?
+	Something like that?
